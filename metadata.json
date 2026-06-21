@@ -1,0 +1,6 @@
+{
+  "name": "Indian Equity Research Terminal",
+  "description": "A high-performance Indian stock and equity research assistant powered by Gemini-3.5 and Google Search Grounding, running professional financial analysis mode prompts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
